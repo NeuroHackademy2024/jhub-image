@@ -65,4 +65,4 @@ dependencies:
     - colorspacious
     - requests
     - platformdirs
-    - git+https://github.com/arokem/krakencoder.git@package_data
+    - git+https://github.com/kjamison/krakencoder.git@571c77f
