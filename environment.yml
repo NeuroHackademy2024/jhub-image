@@ -38,6 +38,7 @@ dependencies:
   - tensorflow
   - nitime
   - statsmodels
+  - openneuro-py
   - pip:
     - torch
     - nbgitpuller
