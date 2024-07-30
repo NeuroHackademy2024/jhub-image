@@ -39,6 +39,7 @@ dependencies:
   - nitime
   - statsmodels
   - pip:
+    - best-toolbox
     - torch
     - nbgitpuller
     - pymef
