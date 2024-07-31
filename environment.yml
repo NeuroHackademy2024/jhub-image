@@ -38,12 +38,14 @@ dependencies:
   - tensorflow
   - nitime
   - statsmodels
+  - openneuro-py
   - pip:
+    - best-toolbox
     - nbgitpuller
     - pymef
     - pybids
     - nipype
-    - neuropythy
+    - neuropythy>=0.12.15
     - dipy
     - mne
     - nilearn
@@ -64,3 +66,4 @@ dependencies:
     - requests
     - platformdirs
     - git+https://github.com/kjamison/krakencoder.git@571c77f12266ee8685222399e5eee80c8a4cdea7
+    - git+https://github.com/rmarkello/abagen.git@dc4a007
