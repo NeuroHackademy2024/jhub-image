@@ -26,8 +26,8 @@ dependencies:
   - jax
   - numba
   - cython
-  - pytorch
-  - torchvision
+  - pytorch==2.3.1+cpuonly
+  - torchvision==0.18+cpuonly
   - dcm2niix
   - openneuro-py
   - ipyvolume
@@ -39,7 +39,6 @@ dependencies:
   - nitime
   - statsmodels
   - pip:
-    - torch
     - nbgitpuller
     - pymef
     - pybids
