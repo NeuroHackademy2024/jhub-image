@@ -70,3 +70,4 @@ dependencies:
     - git+https://github.com/rmarkello/abagen.git@dc4a007
     - git+https://github.com/yeatmanlab/afq-insight.git@cbf13cf
     - ieegprep
+    - jupyter-keepalive
